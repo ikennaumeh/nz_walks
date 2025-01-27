@@ -91,16 +91,6 @@ We welcome contributions to improve the NZ Walks API. To contribute:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## Contact
-If you have any questions or need support, feel free to reach out:
-- **Author**: Ikenna Umeh
-- **GitHub**: [ikennaumeh](https://github.com/ikennaumeh)
-- **Email**: [Your Email Here]
-
----
-
 ## Future Plans
 - Add more advanced authentication options (e.g., OAuth2).
 - Expand CRUD functionality to support additional entities.
